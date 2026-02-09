@@ -25,4 +25,8 @@ The system implements a **Blind Indexing** approach:
 - **Timing:** `std::chrono` high-resolution clock for nanosecond precision.
 
 ---
-**Developed by Alaa Aljohani** *Dedicated to building high-performance, sovereign technology for Saudi Arabia's Vision 2030.*
+**Developed by Alaa Aljohani** 
+
+https://github.com/user-attachments/assets/29ed22d5-3bcd-4c52-ba16-38d0d0fc52a4
+
+*Dedicated to building high-performance, sovereign technology for Saudi Arabia's Vision 2030.*
