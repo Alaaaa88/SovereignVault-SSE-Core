@@ -1,5 +1,7 @@
 # SovereignVault: High-Performance SSE Core 🇸🇦
 
+> **Implementation:** To see this core engine in action within a searchable symmetric encryption (SSE) framework, check out [PhantomEye-SSE](https://github.com/Alaaaa88/PhantomEye-SSE).
+
 A specialized **Searchable Symmetric Encryption (SSE)** engine implemented in C++, designed for high-frequency data environments requiring strict privacy and sub-microsecond latency.
 
 ## 🚀 Performance & Benchmarks
